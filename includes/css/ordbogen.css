@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+
+#wrapper { margin: auto auto; width: 50%; }
+#textarea { font-weight: bold; }
+#textarea, #errortext { margin-top: 10px; }
+#errortext { color: #f00; display: none; }
+input { border-radius: 5px; }
+
+label, button { margin-top: 10px; display: block; }
